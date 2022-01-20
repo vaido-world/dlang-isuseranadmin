@@ -12,3 +12,8 @@ int main(string[] args) {
         return IsUserAnAdmin();
 }
 ```
+
+```
+dmd test2.d shell32.lib
+```
+
