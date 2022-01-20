@@ -28,3 +28,6 @@ ECHO 1 if admin
 
 pause
 ```
+
+SHELLEXEC win32
+https://forum.dlang.org/post/doaosqbvxavboozyihzb@forum.dlang.org
