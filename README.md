@@ -1,6 +1,6 @@
 # dlang-isuseranadmin
-https://stackoverflow.com/questions/29939648/windows-8-1-isuseranadmin-returns-false-even-though-uac-is-off-and-the-user-a
-https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-isuseranadmin?redirectedfrom=MSDN
+https://stackoverflow.com/questions/29939648/windows-8-1-isuseranadmin-returns-false-even-though-uac-is-off-and-the-user-a  
+https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-isuseranadmin?redirectedfrom=MSDN  
 https://forum.dlang.org/post/kbg1r4$1ae3$1@digitalmars.com
 ```
 
