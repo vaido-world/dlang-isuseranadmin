@@ -18,3 +18,13 @@ int main(string[] args) {
 dmd test2.d shell32.lib
 ```
 
+```
+@ECHO OFF
+cd %~dp0
+test2.exe
+echo %ERRORLEVEL%
+ECHO 0 if not admin
+ECHO 1 if admin
+
+pause
+```
